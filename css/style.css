@@ -2,10 +2,9 @@
     padding: 0;
 }
 
-/*BODY*/
 
 
-/*HEADER*/
+/*MAIN*/
 
 
 .banner {
@@ -19,7 +18,7 @@
     background-position: center;
     background-attachment: fixed;
 }
-.bannerContenido h2 {
+.bannerContenido h1 {
     margin-bottom: 15px;
     font-size: 50px;
 }
@@ -55,7 +54,7 @@
 
 header {
     background-color:pink; 
-    padding: 15px 0; /
+    padding: 15px 0; 
 }
 
 .logo {
@@ -63,17 +62,13 @@ header {
 }
 
 .navbar-nav {
-    margin-left: auto; /
+    margin-left: auto; 
 }
 
 .nav-link {
-    color: #000000; /
+    color: #000000; 
     margin-right: 20px; 
 }
-
-
-
-/*MAIN*/
 
 
 .rosa{
@@ -292,22 +287,6 @@ h1 {
 /*FACIALES*/
 
 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
-main {
-    text-align: center;
-    padding: 50px 0;
-}
-
-h1 {
-    font-size: 40px;
-    color:purple;
-}
-
 h2 {
     font-size: 24px;
     color: black;
@@ -425,7 +404,7 @@ form .btnFormulario {
 }
 
 form .btnFormulario:hover {
-    background-color: #45a049;
+    background-color: purple;
 }
 
 
